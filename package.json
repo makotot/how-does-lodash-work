@@ -1,7 +1,7 @@
 {
   "name": "how-does-lodash-work",
   "version": "0.0.1",
-  "description": "",
+  "description": "How does Lodash work",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/makotot/how-does-lodash-work.git"
   },
-  "author": "",
+  "author": "makotot",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/makotot/how-does-lodash-work/issues"
